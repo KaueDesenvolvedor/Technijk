@@ -62,14 +62,37 @@ Atualmente, atuo como **curador chatbot** em uma empresa de iGaming. Meu foco es
 - 💻 Mapeamento de indicadores operacionais  
 - 💻 Atuação no Reclame Aqui  
 
+---
+
+### Ana Gaming (Remoto)
 **Assistente de Automação**  
-*Mai de 2024 - Momento atual (9 meses)*  
+*Mai de 2024 - Fev de 2025 (10 meses)*  
 - 🤖 Criação e manutenção de chatbots  
 - 🤖 Mapeamento e manutenção de fluxos de autoatendimento  
 - 🤖 Utilização de IA em processos analíticos (ChatGPT/Gemini/Claude)  
 - 🤖 Criação de relatórios e desenvolvimento de estratégias para otimização de processos  
 - 🤖 Realização de testes, homologação e acompanhamento de implantações de novas funcionalidades  
 - 🤖 Identificação das necessidades dos clientes usuários do canal e proposição de ações para melhoria contínua  
+
+---
+
+### Esportes Gaming Brasil (Presencial)
+**Atendimento ao cliente**  
+*Mai de 2025 - Dez de 2025 (8 meses)*  
+- 💬 Atendimento ao Cliente (Zendesk)
+- 💬 Atendimento ao Cliente (Twilio)
+
+---
+
+### Strada (Presencial)
+**Assistente de Automação**  
+*Dez de 2025 - (Atualmente)*
+- 🚚 Gerenciar conversas e prestar suporte via Chat, WhatsApp e ligações, mantendo a agilidade e a qualidade no atendimento.
+- 🚚 Realizar e receber ligações de motoristas para solucionar dúvidas e problemas.
+- 🚚 Auxiliar os motoristas na análise do extrato de movimentações financeiras, explicando lançamentos e tirando dúvidas sobre saldos.
+- 🚚 Prestar suporte para acesso ao aplicativo, incluindo recuperação de senha, desbloqueio de conta e orientação sobre funcionalidades.
+- 🚚 Realizar a atualização de dados cadastrais dos motoristas no sistema, garantindo que as informações estejam sempre corretas.
+- 🚚 Abrir e acompanhar chamados (tickets) em sistema interno (como Jira ou similar), detalhando o problema e interagindo com a equipe de tecnologia até a sua resolução.
 
 ---
 
